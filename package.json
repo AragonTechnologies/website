@@ -1,0 +1,30 @@
+{
+  "name": "aragon-website",
+  "version": "1.0.0",
+  "description": "A Aragon Business Website",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "server": "node index.js",
+    "client": "npm start --prefix client",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Blockchain",
+    "Aragon",
+    "Smart",
+    "Contract",
+    "React",
+    "Express",
+    "Nodejs"
+  ],
+  "author": "GoodnessEzeokafor",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "concurrently": "^5.1.0",
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
