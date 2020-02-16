@@ -33,9 +33,15 @@ const Team = () => {
                                 <div class="space-10"></div>
                                 <div class="single-team-social">
                                     <ul>
-                                        <li><a target="_blank"  class="ico-1" href="https://www.linkedin.com/in/goodness-ezeokafor-1a0528162/"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a target="_blank"  class="ico-2" href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a  target="_blank"  class="ico-3" href="https://twitter.com/GoodyEzeokafor"><i class="fa fa-twitter "></i></a></li>
+                                        <li><a
+                                            rel="noopener noreferrer" 
+                                            target="_blank"  class="ico-1" href="https://www.linkedin.com/in/goodness-ezeokafor-1a0528162/"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a
+                                            rel="noopener noreferrer" 
+                                            target="_blank"  class="ico-2" href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a
+                                            rel="noopener noreferrer"  
+                                            target="_blank"  class="ico-3" href="https://twitter.com/GoodyEzeokafor"><i class="fa fa-twitter "></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -54,9 +60,17 @@ const Team = () => {
                                 <div class="space-10"></div>
                                 <div class="single-team-social">
                                     <ul>
-                                        <li><a target="_blank"  class="ico-1" href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a target="_blank"  class="ico-2" href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a target="_blank"  class="ico-3" href="https://twitter.com/i_am__manuel"><i class="fa fa-twitter "></i></a></li>
+                                        <li><a 
+                                                rel="noopener noreferrer"
+                                                target="_blank"  
+                                                class="ico-1" 
+                                                href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a 
+                                                rel="noopener noreferrer"
+                                                target="_blank"  class="ico-2" href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a 
+                                                rel="noopener noreferrer"
+                                                target="_blank"  class="ico-3" href="https://twitter.com/i_am__manuel"><i class="fa fa-twitter "></i></a></li>
                                     </ul>
                                 </div>
                             </div>
@@ -75,9 +89,21 @@ const Team = () => {
                                 <div class="space-10"></div>
                                 <div class="single-team-social">
                                     <ul>
-                                        <li><a target="_blank"  class="ico-1" href="#"><i class="fa fa-linkedin"></i></a></li>
-                                        <li><a target="_blank"  class="ico-2" href="#"><i class="fa fa-facebook"></i></a></li>
-                                        <li><a target="_blank"  class="ico-3" href="#"><i class="fa fa-twitter "></i></a></li>
+                                        <li><a 
+                                                rel="noopener noreferrer"
+                                                target="_blank"  
+                                                class="ico-1" 
+                                                href="#"><i class="fa fa-linkedin"></i></a></li>
+                                        <li><a 
+                                                rel="noopener noreferrer"
+                                                target="_blank"  
+                                                class="ico-2" 
+                                                href="#"><i class="fa fa-facebook"></i></a></li>
+                                        <li><a
+                                            rel="noopener noreferrer" 
+                                            target="_blank"  
+                                            class="ico-3" 
+                                            href="#"><i class="fa fa-twitter "></i></a></li>
                                     </ul>
                                 </div>
                             </div>
