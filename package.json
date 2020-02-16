@@ -8,6 +8,7 @@
     "server": "node index.js",
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "deploy": "pm2 start ./server.sh --name aragon-website",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
