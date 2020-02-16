@@ -10,7 +10,7 @@ const WelcomeSection = () => {
                 <div class="col-12 col-md-6 align-self-center">
                     <div class="welcome-right">
                         <div class="welcome-text">
-                             <h1>Fast Growing ICO 
+                             <h1>Fast Growing Startup
                             Agency for Blockchain
                             Investors and Founders </h1>
                             <h4>Sifting through teaspoons of clay and sand scraped from the 
