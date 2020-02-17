@@ -3,7 +3,7 @@ import React from 'react';
 
 const Header = () => {
     return(
-        <div class="header-area wow fadeInDown header-absolate" id="nav" data-0="position:fixed;" data-top-top="position:fixed;top:0;" data-edge-strategy="set">
+        <div class="header-area wow fadeInDown header-absolate " id="nav" data-0="position:fixed;" data-top-top="position:fixed;top:0;" data-edge-strategy="set">
         <div class="container">
             <div class="row">
                 <div class="col-4 d-block d-lg-none">
