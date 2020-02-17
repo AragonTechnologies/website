@@ -11,7 +11,8 @@ const Header = () => {
                 </div>
                 <div class="col-4 col-lg-2">
                     <div class="logo-area">
-                        <a href="#"><img src="/img/logo-top.png" alt="" /></a>
+                        {/* <a href="#"><img src="/img/logo-top.png" alt="" /></a> */}
+                        <a href="#" style={{fontSize:"25px", color:"white"}}>ARAGON</a>
                     </div>
                 </div>
                 <div class="col-4 col-lg-8 d-none d-lg-block">

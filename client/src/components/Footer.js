@@ -10,8 +10,7 @@ const Footer= () => {
                 <div class="col-12 col-sm-6 col-lg-4">
                     <div class="single-footer">
                         <div class="logo-area footer">
-                            <a href="#"><img src="/img/logo-top.png" alt="" /></a>
-                        </div>
+                        <a href="#" style={{fontSize:"25px", color:"white"}}>ARAGON</a>                        </div>
                         <div class="space-20"></div>
                         <p>
                             Using deep technology to build viable products
