@@ -5,6 +5,7 @@ import Header from "./components/Header";
 import WelcomeSection from "./components/WelcomeSection"
 import About from "./components/About"
 import Team from "./components/Team"
+import Community from "./components/Community"
 import Footer from "./components/Footer"
 export default class App extends Component {
   render() {
@@ -15,6 +16,7 @@ export default class App extends Component {
       <WelcomeSection />
       <About />
       <Team />
+      <Community />
       <Footer />
       </Aux>
     );
