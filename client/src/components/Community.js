@@ -17,15 +17,18 @@ const Community = () => {
             <div class="row">
                 <div class="col-lg-5 offset-2">
                     <div class="contact-form">
-                        <form action="#">
+                        <form   
+                            action="https://formspree.io/xwkbbjpa"
+                            method="POST">
                             <input type="text" placeholder="your name" />
                             <div class="space-20"></div>
-                            <input type="email" placeholder="your email" />
+                            <input name="_replyto" type="email" placeholder="your email" />
                             <div class="space-20"></div>
-                            <textarea name="text" id="message" cols="30" placeholder="Write your message" rows="5"></textarea>
+                            <textarea name="message" id="message" cols="30" placeholder="Write your message" rows="5"></textarea>
+                            <div class="space-20"></div>
+                        <button type="submit" class="gradient-btn v2 btn-danger">Send message</button>
                         </form>
-                        <div class="space-20"></div>
-                        <a href="#" class="gradient-btn v2">Send message</a>
+
                     </div>
                 </div>
                 <div class="col-lg-5">
