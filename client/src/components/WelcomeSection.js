@@ -10,11 +10,14 @@ const WelcomeSection = () => {
                 <div class="col-12 col-md-6 align-self-center">
                     <div class="welcome-right">
                         <div class="welcome-text">
-                             <h1>Fast Growing Startup
-                            Agency for Blockchain
-                            Investors and Founders </h1>
+                             <h1>Fastest Growing Blockchain Startup
+                            In Nigeria
+                            {/* Investors and Founders  */}
+                            </h1>
                             <h4>Sifting through teaspoons of clay and sand scraped from the 
-    floors of caves, German researchers have managed.</h4>
+    {/* floors of caves, German researchers have managed.
+    lorem    */}
+    </h4>
                         </div>
                         <div class="welcome-btn">
                             <a href="#" class="gradient-btn v2 mr-20">Connect With Metamask</a>
