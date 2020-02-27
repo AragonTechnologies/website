@@ -65,7 +65,7 @@ const Team = () => {
                                                 rel="noopener noreferrer"
                                                 target="_blank"  
                                                 class="ico-1" 
-                                                href="#"><i class="fa fa-linkedin"></i></a></li>
+                                                href="https://www.linkedin.com/in/emmanuel-nduka-500900119/"><i class="fa fa-linkedin"></i></a></li>
                                         <li><a 
                                                 rel="noopener noreferrer"
                                                 target="_blank"  class="ico-2" href="#"><i class="fa fa-facebook"></i></a></li>
@@ -104,7 +104,7 @@ const Team = () => {
                                             rel="noopener noreferrer" 
                                             target="_blank"  
                                             class="ico-3" 
-                                            href="#"><i class="fa fa-twitter "></i></a></li>
+                                            href="https://twitter.com/TheRealJpN"><i class="fa fa-twitter "></i></a></li>
                                     </ul>
                                 </div>
                             </div>
