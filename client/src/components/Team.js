@@ -22,8 +22,9 @@ const Team = () => {
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="single-team">
                                 <div class="single-team-img">
-                                    <img src="/img/superman-1.jpg" alt="" />
+                                    <img src="/img/WhatsApp Image 2020-02-27 at 08.18.13.jpeg" alt="" />
                                 </div>
+                                {/* WhatsApp Image 2020-02-27 at 08.18.12.jpeg */}
                                 <div class="space-30"></div>
                                 <div class="single-team-content">
                                     <h3>Goodness Ezeokafor</h3>
@@ -49,7 +50,7 @@ const Team = () => {
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="single-team">
                                 <div class="single-team-img">
-                                    <img src="/img/superman-2.jpg" alt="" />
+                                    <img src="/img/WhatsApp Image 2020-02-27 at 08.18.12.jpeg" alt="" />
                                 </div>
                                 <div class="space-30"></div>
                                 <div class="single-team-content">
