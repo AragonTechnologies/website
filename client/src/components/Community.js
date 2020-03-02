@@ -46,11 +46,15 @@ const Community = () => {
                         </div>
                         <div class="space-30"></div>
                         <div class="single-details">
+                            <small>For general enquires</small>
+                            <div class="space-10"></div>
+                            <a href="#">brainyblaze@gmail.com</a>
+                        </div>
+                        <div class="space-30"></div>
+                        <div class="single-details">
                             <small>anything else? just call us</small>
                             <div class="space-10"></div>
                             <a href="#">+2349018916522</a> <br />    
-
-                            
                             <a href="#">+2349021990562</a>
                         </div>
                     </div>

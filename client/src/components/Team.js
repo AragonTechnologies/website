@@ -29,7 +29,7 @@ const Team = () => {
                                 <div class="single-team-content">
                                     <h3>Goodness Ezeokafor</h3>
                                     <div class="space-10"></div>
-                                    {/* <h6>CO-FOUNDER & CEO</h6> */}
+                                    <h6>CO-FOUNDER/CO-CEO</h6>
                                 </div>
                                 <div class="space-10"></div>
                                 <div class="single-team-social">
@@ -56,7 +56,7 @@ const Team = () => {
                                 <div class="single-team-content">
                                     <h3>Emmanuel Nduka</h3>
                                     <div class="space-10"></div>
-                                    {/* <h6>CO-FOUNDER & CTO</h6> */}
+                                    <h6>CO-FOUNDER/CO-CEO</h6>
                                 </div>
                                 <div class="space-10"></div>
                                 <div class="single-team-social">
@@ -79,13 +79,14 @@ const Team = () => {
                         <div class="col-12 col-md-6 col-lg-4">
                             <div class="single-team">
                                 <div class="single-team-img">
-                                    <img src="/img/superman-6.jpg" alt="" />
+                                    <img src="/img/jp.jpeg" alt="" />
                                 </div>
                                 <div class="space-30"></div>
                                 <div class="single-team-content">
                                     <h3>JOHN PAUL</h3>
                                     <div class="space-10"></div>
-                                    {/* <h6>COO</h6> */}
+                                    <h6>COO</h6>
+
                                 </div>
                                 <div class="space-10"></div>
                                 <div class="single-team-social">
